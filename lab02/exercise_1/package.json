@@ -1,0 +1,8 @@
+{
+  "name": "lab02_exercise_1",
+  "version": "0.0.1",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "mysql2": "^2.1.0"
+  }
+}
